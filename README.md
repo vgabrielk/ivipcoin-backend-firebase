@@ -18,7 +18,7 @@
     
 ## Rodando localmente
 
-⚠️ O backend precisa conectar com o banco de dados (firebase), no arquivo .env.example estão as variáveis de ambiente para realizar a conexão.
+⚠️ O backend precisa conectar com o banco de dados (firebase), no arquivo .env.example estão as variáveis de ambiente para realizar a conexão, então na raiz do projeto crie um arquivo .env e adicione o conteúdo de .env.example com os dados do seu firestore.
 
 Clone o projeto
 
