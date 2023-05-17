@@ -8,9 +8,6 @@
 - Editar tarefa
 - Atualizar tarefa
 - Deletar tarefa
-- Conectar com o firebase.
-- Gerenciar as rotas 
-
 
 
 ## Stack utilizada
